@@ -1,2 +1,2 @@
 # page
-UX ເເລະ UI
+UX and UI
